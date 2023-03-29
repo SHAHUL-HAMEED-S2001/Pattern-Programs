@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Solution_1{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter No. of rows:");
+        System.out.print("Enter No. of rows: ");
         int rows = sc.nextInt();
         sc.close();
 
